@@ -35,4 +35,4 @@ Flags:
 
 
 ## Sample Output
-![alt tag](https://git.corp.yahoo.com/raw/alaamub/fuzzxml/master/sample.png?token=AAAE5rYYZ8dNJUg7pll_xVXX9OcW2Avyks5XkVXLwA%3D%3D)
+![alt tag](https://github.com/alaamub/fuzzxml/blob/master/sample.png?raw=true)
